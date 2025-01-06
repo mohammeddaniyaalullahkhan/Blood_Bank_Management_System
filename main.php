@@ -97,7 +97,7 @@
     <h2 class="text-center">Contact Us</h2>
   </div>
   <div>
-  <p class="text-center bg-dark text-white">Chandana GV - +91-9902477354, gchandana7799@gmail.com<br>Rithish Reddy - +91-9380073437, rithishreddy7007@gmail.com<br>Jasti SriHarsha - +91-9110342158, sri814823@gmail.com<br>Balaji Subhash - +91-7036739735, gbalajisubash@gmail.com<br>Bhaskar SaiRam - +91-8374827408, k.bsairam1210@gmail.com</p>
+  <p class="text-center bg-dark text-white">Daniyaal - +91-7036334236, mohammeddaniyaalullahkhan@gmail.com<br>abc - +91-1111111111, abc@gmail.com<br>xyz - +91-2222222222, xyz@gmail.com<br>efg - +91-333333333, efg@gmail.com<br>hij - +91-4444444444, hij@gmail.com</p>
   <a href="contact.html"> </a>
   </div>
 </section>
